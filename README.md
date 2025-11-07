@@ -58,7 +58,9 @@ A smart **schedule management web app** designed to help users efficiently plan 
   </a>
 </p>
 <p align="center">
-  📬 Wanna say hi? <a href="mailto:sidrasc05@gmail.com">Let's Connect via Email!</a> 💌
+  <a href="mailto:sidrasc05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
 </p>
 
 
