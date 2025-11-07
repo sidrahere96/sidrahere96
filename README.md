@@ -56,10 +56,12 @@ A smart **schedule management web app** designed to help users efficiently plan 
   <a href="https://www.linkedin.com/in/sidrahere96/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sidrasc05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
+<p align="center">
+  📬 Wanna say hi? <a href="mailto:sidrasc05@gmail.com">Let's Connect via Email!</a> 💌
+</p>
+
+
 
 
 ---
