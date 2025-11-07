@@ -72,4 +72,11 @@ A smart **schedule management web app** designed to help users efficiently plan 
 
 ---
 
-⭐ **Check out my repositories and don’t forget to give a star if you like my work!** 🌟
+---
+
+<p align="center">
+  🌈 Turning ideas into code, one commit at a time don’t forget to ⭐ star your favorite projects!  
+  <br>
+  💫 Thanks for visiting my profile your support keeps me motivated to build, learn, and create more! 🚀  
+</p>
+
