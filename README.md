@@ -1,23 +1,22 @@
-
-
-# Hi there! 👋  
-
-I'm Sidra, a passionate 3rd-year B.E. Student specializing in Computer Engineering at PVG,Nashik 🎓  
-I love exploring innovative technologies and building impactful solutions. 🚀  
+<!-- Header -->
+<h1 align="center">Hi there! 👋 I'm Sidra</h1>
+<h3 align="center">🚀 3rd-year B.E. Computer Engineering Student | React Intern @360ViewTech | Curious Learner 🌱</h3>
 
 ---
 
-## 🧠 About Me  
-📍 Based in Nashik,Maharshtra,India  
-💼 Currently React-Intern @360ViewTech  
-💬 Ask me about: Building sleek UIs with React & Tailwind, or managing data with MySQL and MongoDB!  
-⚡ Fun fact: I’m a curious reader who enjoys discovering how things work behind the scenes.  
+### 🧠 About Me  
+📍 Based in **Nashik, Maharashtra, India**  
+🎓 Studying **Computer Engineering** at **PVG, Nashik**  
+💼 Currently working as a **React Intern @360ViewTech**  
+💬 Ask me about: **Building sleek UIs with React & Tailwind**, or managing data with **MySQL & MongoDB**  
+📚 Hobbies: **Reading** and **exploring new technologies**  
+⚡ Fun fact: *I’m a curious reader who enjoys discovering how things work behind the scenes!*  
 
 ---
 
-## 🛠️ Skills & Technologies  
+### 🛠️ Skills & Technologies  
 
-### 💻 Frontend  
+#### 💻 Frontend  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +24,7 @@ I love exploring innovative technologies and building impactful solutions. 🚀
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### 🧠 Programming Languages  
+#### 🧩 Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,7 +32,7 @@ I love exploring innovative technologies and building impactful solutions. 🚀
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Backend  
+#### 🗄️ Databases & Backend  
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -42,25 +41,35 @@ I love exploring innovative technologies and building impactful solutions. 🚀
 
 ---
 
+### 🚀 Top Project  
 
-## 🚀 Top Project  
+#### 🗓️ [Schedulize](https://github.com/sidrahere96/Schedulize)
+A smart **schedule management web app** designed to help users efficiently plan and organize their tasks and events.  
 
-### [Schedulize](https://github.com/sidrahere96/Schedulize)
-A smart schedule management web app designed to help users efficiently plan and organize their tasks and events.  
-**Tech Stack:**  · HTML ·CSS · PHP · Node.js
+🛠️ **Tech Stack:** HTML · CSS · PHP · Node.js  
 
 ---
 
-## 🌐 Connect with Me  
+### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/sidrahere96/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sidrasc05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:sidrasc05@gmail.com) alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
-⭐ **Check out my repositories and don’t forget to give a star if you like my work!**
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidrahere96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidrahere96&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐ **Check out my repositories and don’t forget to give a star if you like my work!** 🌟
