@@ -58,11 +58,9 @@ A smart schedule management web app designed to help users efficiently plan and 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sidrasc05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:sidrasc05@gmail.com) alt="Email" />
   </a>
 </p>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidrasc05@gmail.com)
-
 ---
 
 ⭐ **Check out my repositories and don’t forget to give a star if you like my work!**
