@@ -50,13 +50,15 @@ A smart **schedule management web app** designed to help users efficiently plan 
 
 
 ---
+ 
 
 ### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidrahere96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidrahere96&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sidrahere96&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
