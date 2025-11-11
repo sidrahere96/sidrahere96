@@ -70,3 +70,12 @@ A smart **schedule management web app** designed to help users efficiently plan 
   💫 Thanks for visiting my profile your support keeps me motivated to build, learn, and create more! 🚀  
 </p>
 
+# My Project
+
+![License](https://img.shields.io/github/license/OWNER/REPO)
+![GitHub release](https://img.shields.io/github/v/release/OWNER/REPO)
+![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)
+![Last commit](https://img.shields.io/github/last-commit/OWNER/REPO)
+![Build status](https://github.com/OWNER/REPO/actions/workflows/WORKFLOW.yml/badge.svg?branch=main)
+
+
