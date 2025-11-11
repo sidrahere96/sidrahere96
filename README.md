@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React, Node.js, and Cloud Fundamentals**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Web Development, APIs**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sidra-chaudhari/)**  
 - ⚡ Fun fact: *I am curious-learner and wants to learn new things!*
 
 ---
@@ -49,7 +49,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sidra-chaudhari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
