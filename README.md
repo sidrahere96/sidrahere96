@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Web Development, APIs**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)**  
-- ⚡ Fun fact: *I love designing UIs and coffee ☕*
+- ⚡ Fun fact: *I am curious-learner and wants to learn new things!*
 
 ---
 
